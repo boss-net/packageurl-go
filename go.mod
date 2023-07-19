@@ -1,3 +1,3 @@
-module github.com/package-url/packageurl-go
+module github.com/boss-net/packageurl-go
 
 go 1.17
